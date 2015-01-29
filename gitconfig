@@ -18,6 +18,7 @@
   autocrlf = input
 [merge]
   ff = only
+	tool = diffmerge
 [commit]
   template = ~/.gitmessage
 [fetch]
@@ -28,3 +29,6 @@
   path = ~/.gitconfig.local
 [diff]
   colorMoved = zebra
+[user]
+	name = Arturs Braucs
+	email = arturs.braucs@gmail.com
