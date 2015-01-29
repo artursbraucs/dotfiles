@@ -1,0 +1,7 @@
+Plugin 'morhetz/gruvbox'
+Plugin 'Yggdroot/indentLine'
+Plugin 'rking/ag.vim'
+Plugin 'dkprice/vim-easygrep'
+Plugin 'xolox/vim-easytags'
+Plugin 'xolox/vim-misc'
+Plugin 'scrooloose/nerdtree'
