@@ -136,6 +136,8 @@ nnoremap <Leader><Leader> <C-^>
 nnoremap <Leader>t :call RunCurrentSpecFile()<CR>
 nnoremap <Leader>s :call RunNearestSpec()<CR>
 nnoremap <Leader>l :call RunLastSpec()<CR>
+nnoremap <silent> <Leader>a :TestSuite<CR>
+nnoremap <silent> <leader>gt :TestVisit<CR>
 
 " Run commands that require an interactive shell
 nnoremap <Leader>r :RunInInteractiveShell<Space>
